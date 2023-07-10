@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">fragmentExample3</string>
+    <string name="btn_change_fragment">Cambiar fragmento</string>
+    <string name="write_text_hint">Escribe un texto</string>
+    <string name="btn_send">Enviar</string>
 </resources>
